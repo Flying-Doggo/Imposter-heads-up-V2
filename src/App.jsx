@@ -314,7 +314,7 @@ export default function ImpostorGame() {
 
         <div className="w-full max-w-md space-y-6">
           <div className="text-center space-y-2">
-            <h1 className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-400 uppercase tracking-tighter">
+            <h1 className="text-4xl font-black text-indigo-400 uppercase tracking-tighter drop-shadow-lg">
               Impostor
             </h1>
             <p className="text-gray-400 text-sm font-medium tracking-widest uppercase">Detective vs Deceiver</p>
